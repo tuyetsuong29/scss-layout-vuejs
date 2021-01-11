@@ -1,0 +1,11 @@
+.cardBody{
+  overflow: auto;
+  background-color: white;
+  font-family: "Lora", serif;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem 15rem 1rem;
+  border: 1px solid #f8f8f8;
+  border-radius: 20px;
+}
